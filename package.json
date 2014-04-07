@@ -2,7 +2,7 @@
   "author": "Leon Brocard <acme@astray.com> (http://www.astray.com/)",
   "name": "data-page",
   "description": "Help when paging through sets of results",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
